@@ -1,6 +1,6 @@
-#Introduction
+# FTP ZIP
 This Program will Download file using FTP protocol with ZIP compressing feature .
-##Details 
+## Details 
 Compression will be on server and download **ZIP** file trough **FTP** .
 
 As an Input you will pass ` IP username password directory_path ` ( with space separated ) and after reviewing files *select
